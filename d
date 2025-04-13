@@ -1,7 +1,7 @@
 #Импорт модулей
 from pygame import *
 from random import randint
-import time
+#import time
 font.init()
 #Создание текста
 font1 = font.SysFont('Arial', 75)
