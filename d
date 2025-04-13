@@ -83,7 +83,7 @@ but3 = Button(50 , 50 ,"button.png" , 250 , 100 , 0)
 but4 = Button(50 , 50 ,"button.png" , 350 , 100 , 0)
 cars = sprite.Group()
 global enemy_speed
-enemy_speed = 1
+enemy_speed = 5
 
 
 
